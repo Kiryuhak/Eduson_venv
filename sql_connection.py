@@ -33,3 +33,5 @@ print(data)
 
 # Закрываем соединение
 connection.close()
+
+# Test 
